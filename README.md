@@ -1,4 +1,4 @@
-# Centro Médico
+# Centro Médico SanaPlus
 
 Este proyecto es una página para un centro médico que sirve para tener todo más ordenado y no andar en desorden con papeles.
 
